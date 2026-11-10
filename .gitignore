@@ -210,6 +210,9 @@ tmp/
 ДЗ 1.pdf
 ml-seminar-1 (2).ipynb
 
+# Private research journal
+/RESEARCH_LOG.md
+
 # Ruff stuff:
 .ruff_cache/
 
