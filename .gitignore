@@ -205,6 +205,11 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Local assignment references and generated previews
+tmp/
+ДЗ 1.pdf
+ml-seminar-1 (2).ipynb
+
 # Ruff stuff:
 .ruff_cache/
 
